@@ -3,7 +3,7 @@
 import hashlib
 import os
 import time
-import gradio as gr
+ gradio 
 
 def multiplicar_en_campo(a, b):
     res = 0
